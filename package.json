@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "mongodb": "^4.11.0",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.8.0"
+  }
+}
